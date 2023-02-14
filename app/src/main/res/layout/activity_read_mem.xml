@@ -52,12 +52,13 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignBottom="@+id/textView2"
+                android:layout_toEndOf="@+id/textView2"
                 android:layout_toRightOf="@+id/textView2"
+                android:autofillHints="Enter your flag Here"
                 android:background="#CCCCCC"
                 android:ems="10"
                 android:inputType="textPersonName"
-                android:layout_toEndOf="@+id/textView2"
-                android:autofillHints="Enter your flag Here" />
+                tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck,TouchTargetSizeCheck" />
 
             <Button
                 android:id="@+id/button3"
@@ -80,7 +81,6 @@
             android:layout_height="60dp"
             android:layout_marginStart="100dp"
             android:layout_marginLeft="50dp"
-            android:layout_marginTop="225dp"
-            android:background="@drawable/buttonshape1" />
+            android:layout_marginTop="225dp"/>
     </RelativeLayout>
 </android.support.constraint.ConstraintLayout>

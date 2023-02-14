@@ -994,9 +994,12 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
-drawable buttonshape1
 drawable congo
 drawable crop
+drawable debug01
+drawable debug02
+drawable debug1
+drawable debug2
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1025,6 +1028,9 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable phone_main
+drawable phone_splash
+drawable sign_bundle
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
