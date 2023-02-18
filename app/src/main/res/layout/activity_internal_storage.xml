@@ -16,7 +16,7 @@
             android:layout_height="107dp"
             android:layout_centerHorizontal="true"
             android:scaleType="fitXY"
-            android:src="@drawable/logo_header"
+            android:src="@drawable/logoheader"
             android:visibility="visible" />
         <TextView
             android:id="@+id/textView1"
